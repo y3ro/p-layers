@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T17:08:34.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cNDcgUH2pxepbXd9u1F5" version="21.6.9" type="device">
+<mxfile host="app.diagrams.net" modified="2023-09-24T15:15:41.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hJMFwG0QT7KuTQziOYdM" version="21.6.9">
   <diagram name="Página-1" id="iEaHNIIJkxejVf-zIs_g">
     <mxGraphModel dx="2074" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="393" pageHeight="393" math="0" shadow="0">
       <root>
@@ -825,6 +825,12 @@
         </mxCell>
         <mxCell id="t8fxPtUpH1gHO733P13p-431" value="Navigation layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZecD8wUSMB9IwvmrrEd4-1" value="Enter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZecD8wUSMB9IwvmrrEd4-2" value="Del" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268" y="465" width="38" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
